@@ -1,0 +1,20 @@
+# Logfile created on 2014-03-07 09:36:47 -0800 by logger.rb/44203
+I, [2014-03-07T09:36:47.550380 #37267]  INFO -- : 0:  addressable (2.3.5) from /usr/local/rvm/gems/ruby-2.1.0/specifications/addressable-2.3.5.gemspec
+I, [2014-03-07T09:36:48.146192 #37267]  INFO -- : 0:  backports (3.6.0) from /usr/local/rvm/gems/ruby-2.1.0/specifications/backports-3.6.0.gemspec
+I, [2014-03-07T09:36:48.146650 #37267]  INFO -- : 0:  coderay (1.1.0) from /usr/local/rvm/gems/ruby-2.1.0/specifications/coderay-1.1.0.gemspec
+I, [2014-03-07T09:36:48.312876 #37267]  INFO -- : 0:  daemons (1.1.9) from /usr/local/rvm/gems/ruby-2.1.0/specifications/daemons-1.1.9.gemspec
+I, [2014-03-07T09:36:48.313410 #37267]  INFO -- : 0:  eventmachine (1.0.3) from /usr/local/rvm/gems/ruby-2.1.0/specifications/eventmachine-1.0.3.gemspec
+I, [2014-03-07T09:36:48.753554 #37267]  INFO -- : 0:  em-websocket (0.3.8) from /usr/local/rvm/gems/ruby-2.1.0/specifications/em-websocket-0.3.8.gemspec
+I, [2014-03-07T09:36:48.753949 #37267]  INFO -- : 0:  method_source (0.8.2) from /usr/local/rvm/gems/ruby-2.1.0/specifications/method_source-0.8.2.gemspec
+I, [2014-03-07T09:36:48.754249 #37267]  INFO -- : 0:  multi_json (1.9.0) from /usr/local/rvm/gems/ruby-2.1.0/specifications/multi_json-1.9.0.gemspec
+I, [2014-03-07T09:36:48.754540 #37267]  INFO -- : 0:  slop (3.4.7) from /usr/local/rvm/gems/ruby-2.1.0/specifications/slop-3.4.7.gemspec
+I, [2014-03-07T09:36:48.754814 #37267]  INFO -- : 0:  pry (0.9.12.6) from /usr/local/rvm/gems/ruby-2.1.0/specifications/pry-0.9.12.6.gemspec
+I, [2014-03-07T09:36:48.755063 #37267]  INFO -- : 0:  rack (1.5.2) from /usr/local/rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-03-07T09:36:48.755333 #37267]  INFO -- : 0:  rack-protection (1.5.2) from /usr/local/rvm/gems/ruby-2.1.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-03-07T09:36:48.755579 #37267]  INFO -- : 0:  rack-test (0.6.2) from /usr/local/rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-03-07T09:36:48.755815 #37267]  INFO -- : 0:  tilt (1.4.1) from /usr/local/rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-03-07T09:36:48.756077 #37267]  INFO -- : 0:  sinatra (1.4.4) from /usr/local/rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-03-07T09:36:48.756317 #37267]  INFO -- : 0:  sinatra-contrib (1.4.2) from /usr/local/rvm/gems/ruby-2.1.0/specifications/sinatra-contrib-1.4.2.gemspec
+I, [2014-03-07T09:36:50.327002 #37267]  INFO -- : 0:  thin (1.6.2) from /usr/local/rvm/gems/ruby-2.1.0/specifications/thin-1.6.2.gemspec
+I, [2014-03-07T09:36:50.599095 #37267]  INFO -- : 0:  sinatra-websocket (0.3.0) from /usr/local/rvm/gems/ruby-2.1.0/specifications/sinatra-websocket-0.3.0.gemspec
+I, [2014-03-07T09:36:50.599585 #37267]  INFO -- : 0:  bundler (1.5.1) from /usr/local/rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
